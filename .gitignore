@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+test-data.xml
+
+# Scratch and diagnostic scripts
+scratch_*.py
+scratch/
+
+# Local archives and trace staging
+*.zip
+agent-trace/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
